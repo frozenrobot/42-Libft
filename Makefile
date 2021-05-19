@@ -6,7 +6,7 @@
 #    By: kgulati <kgulati@student.42wolfsburg.de    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/05/16 11:20:34 by kgulati           #+#    #+#              #
-#    Updated: 2021/05/19 14:34:40 by kgulati          ###   ########.fr        #
+#    Updated: 2021/05/19 21:16:53 by kgulati          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -53,6 +53,7 @@ BONUS = ft_lstadd_back.c \
 		ft_lstdelone.c \
 		ft_lstiter.c \
 		ft_lstlast.c \
+		ft_lstmap.c \
 		ft_lstnew.c \
 		ft_lstsize.c
 
